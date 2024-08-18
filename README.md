@@ -11,3 +11,6 @@
 
 - 이전에 진행했던 프로젝트를 디벨롭하여 새로운 프로젝트 진행
 - Airflow를 활용한 ETL 작업과 Tableau를 활용한 시각화 진행
+
+[프로젝트 진행 아키텍처]
+![image](https://github.com/user-attachments/assets/117cfbce-31e9-4c1b-923e-5c8da8689635)
